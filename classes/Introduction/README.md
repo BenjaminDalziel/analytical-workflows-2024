@@ -29,7 +29,7 @@ _Nothing_
 
 #### Software
 - [GitHub Desktop](https://desktop.github.com/) (_required_)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/) (_required_)
 - [Git](https://git-scm.com/downloads) or [Git for Windows](https://gitforwindows.org/) (_optional_)
 - [LaTex](https://www.latex-project.org/get/) (_optional_)
 - LaTeX editor (e.g., [TeXstudio](http://texstudio.sourceforge.net)), MacTex(http://www.tug.org/mactex/) for Mac, or use your general text editor if it can be made "Latex-enabled" as Visual Studio Code can 
