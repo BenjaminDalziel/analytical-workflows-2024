@@ -25,22 +25,26 @@ This folder contains more general information and notes relevant to the behind-t
 
 
 
-#### _Week 0 email_
+#### _Week 0 email_ [updated 1/7/2024]
 
 Hi everyone,
 
-Welcome to the first week of Analytical Workflows (IB 516)! Our first meeting is this Thursday 10-11:50am in Kidder 356.
+Welcome to the first week of Analytical Workflows (IB 516)! Our first meeting is tomorrow, Monday 10-11:50am in Kidder 238.
 
-Overall, this class is about designing and building good analyses for scientific research. You will work on your own research topic, with the statistical approaches that make sense for your work, in the programming language(s) of your choice. Overarching these specifics are a series of best-practices that make science more effective, reproducible, and ultimately more fun, and this is the topic of the course. It is a topic Mark and I are both passionate about, and best practices are always evolving - we are excited to learn along with you this term.
+Overall, this class is about designing and building good analyses for scientific research. You will work on your own research topic, with the statistical approaches that make sense for your work, in the programming language(s) of your choice. Overarching these specifics are a series of best-practices that make science more effective, reproducible, and ultimately more fun, and this is the topic of the course. These best practices are always evolving and there is always more to learn. I am excited to learn along with you this term.
 
 Here are a few notes prior to the first class:
 
-* please bring a laptop if you have one. If you don't have one please let us know so we can provide you one for use during class time
+* Please bring a laptop if you have one. If you don't have one, please let us know so we can provide you one for use during class time.
 
-* this class is BYO-research. Please arrive on Thursday knowing which of your thesis chapter(s) / research goal(s) you will work on during the class. If you are unsure, we suggest discussing it with your thesis advisor. Mark and I are also happy to think through it with you. Whatever chapter/topic you choose, our goal is that by the end of the class you have designed and built an efficient and effective analytical workflow for that chapter/topic. 
+* This class is BYO-research. As much as possible, please arrive on Monday knowing which of your thesis chapter(s) / research goal(s) you will work on during the class. If you are unsure, I suggest discussing it with your thesis advisor. I am also happy to think through it with you. Whatever chapter/topic you choose, our goal is that by the end of the class you have designed and built an efficient and effective analytical workflow for that chapter/topic. 
 
-See you on Thursday,ß
-Ben and Mark
+I am looking forward to working together this term! See you on tomorrow,
+Ben
+
+
+
+
 
 
 
