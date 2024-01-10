@@ -35,9 +35,8 @@ _Nothing_
 * [Implementation & Team troubleshooting](../Implementation) (_45 min._)
   * Catchup / verify:
     * Sign up for a GitHub account
-    * Send user name to us (whoever's the Instructor of Record)
-    * Install Git
-    * Install a Git GUI
+    * Install Github deskop
+    * Install Visual Studio Code
   * Prepare for project presentations
     * Create a public repo for your project on Github and clone it to your computer
     * Work on your [Project proposal presentation](../ProjectProposal)
