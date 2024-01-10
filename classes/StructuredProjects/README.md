@@ -19,6 +19,8 @@ For us this distills to an organizational approach we call the Project Mindset.
 
 ### Required readings (_before class_)
 - Notes: [tex/StructuredProjects.pdf](tex/StructuredProjects.pdf)
+- [Noble 2009](../../readings/pdfs/Noble2009.pdf)
+- [Marwick et al. 2008](../../readings/pdfs/Marwick2018.pdf)
 
 ### To do (_before class_)
 _Nothing_
