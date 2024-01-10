@@ -35,7 +35,7 @@ _Nothing_
 * [Implementation & Team troubleshooting](../Implementation) (_45 min._)
   * Catchup / verify:
     * Sign up for a GitHub account
-    * Install Github deskop
+    * Install Github desktop
     * Install Visual Studio Code
   * Prepare for project presentations
     * Create a public repo for your project on Github and clone it to your computer
