@@ -20,7 +20,6 @@ For us this distills to an organizational approach we call the Project Mindset.
 ### Required readings (_before class_)
 - Notes: [tex/StructuredProjects.pdf](tex/StructuredProjects.pdf)
 - [Noble 2009](../../readings/pdfs/Noble2009.pdf)
-- [Marwick et al. 2008](../../readings/pdfs/Marwick2018.pdf)
 
 ### To do (_before class_)
 _Nothing_
@@ -35,7 +34,7 @@ _Nothing_
 * [Implementation & Team troubleshooting](../Implementation) (_45 min._)
   * Catchup / verify:
     * Sign up for a GitHub account
-    * Install Github desktop
+    * Install Github Desktop
     * Install Visual Studio Code
   * Prepare for project presentations
     * Create a public repo for your project on Github and clone it to your computer
