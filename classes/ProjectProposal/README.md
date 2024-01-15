@@ -10,7 +10,7 @@ _None_
 ### To do (_before class_)
 - Create a slide presentation.  _No more than **5 slides** (including title slide)!_
 - Export slides to pdf.
-- Send to Mark Novak (mark.novak@oregonstate.edu).
+- Send to Ben Dalziel (benjamin.dalziel@oregonstate.edu).
 
 ### Class structure
 We'll dedicate the whole class period to presentations.
