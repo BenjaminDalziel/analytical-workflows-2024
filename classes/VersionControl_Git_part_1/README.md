@@ -6,7 +6,7 @@ In this class we'll discuss the basics of Git and GitHub:  _pull_, _create/edit_
 - [Getting Started - What is Git?](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
 ### To do (_before class_)
-- Install Git (see [Introduction](../Introduction/README.md))
+- Install Github Desktop (see [Introduction](../Introduction/README.md))
 - Create an account on [GitHub](https://github.com)
 
 ### Class structure
