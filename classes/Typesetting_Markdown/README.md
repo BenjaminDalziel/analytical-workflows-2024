@@ -1,45 +1,29 @@
 # Typesetting with Markdown
 
-There are a number of [Markdown flavours](https://en.wikipedia.org/wiki/Markdown).  Some people even use it to write and typeset their manuscripts (as we will learn to do with LaTeX).  We're only going to learn enough to:
-1) write clear README files for our GitHub repositories, and
-2) knit together code-integrated reports on analyses performed in R (for your digital notebook or your _annual_ committee meetings..._hint, hint!_).
+Markdown refers to syntax that creates formatted text using a plain-text editor. This offers the speed and precision of writing plain text while allowing the end result to be nice and easy to look at. You can add links, and even figures, tables and equations, using Markdown. There are a number of [Markdown flavours](https://en.wikipedia.org/wiki/Markdown). Some people even use it to write and typeset their manuscripts (as we will learn to do with LaTeX).  In this class we're going to learn enough to write clear README files for our GitHub repositories.
 
 ### Required readings (_before class_)
-- [Markdown in 3 minutes](https://github.com/scholmd/scholmd/wiki/Learn-markdown-in-3-minutes)
-- [R Markdown Quick tour](https://rmarkdown.rstudio.com/authoring_quick_tour.html)
+_None_
 
 
 ### To do (_before class_)
 _Nothing_
 
 ### Class structure
-- Create/format your GitHub READMEs (or data-folder meta-data files) using at least 4 of the elements summarized in [Markdown in 3 minutes](https://github.com/scholmd/scholmd/wiki/Learn-markdown-in-3-minutes) (_40 min._)
-- Create a barebones report using knitR in RStudio using [R Markdown Quick tour](https://rmarkdown.rstudio.com/authoring_quick_tour.html) or an RStudio R Markdown template* (_40 min._ but see note in next bullet)
-- If you are already an experienced RMarkdown user, an alternative exercise is to construct a Jupyter notebook to display equations on Github. A shortcoming of Github markdown is that it cannot display equations using a LaTeX-like language. An example notebook is [here](../Typesetting_Markdown/displaying_equations_on_github/)
+- Create/format your GitHub READMEs (or data-folder meta-data files) so they include at least one of each of the following elements (_40 min._)
+	- multiple headings and subheadings (e.g. project objectives, data, code)
+	- equations
+	- links
+	- tables
+	- figures (e.g. your workflow diagram)
 - Back to your choice of [Implementation & Team troubleshooting](../Implementation/README.md) (_remaining time_)
 
 
-### Markdown Cheatsheets
-- [Syntax](./reference/markdown-cheatsheet-online.pdf)
-- [RStudio](./reference/rmarkdown-cheatsheet-2.0.pdf)
-- [Guide](./reference/rmarkdown-reference.pdf)
+### Markdown Cheatsheets and Guides
+- [General cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Guide to writing equations](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) 
+- [Guide](./reference/rmarkdown-reference.pdf) (this one is a bit outdated)
 
-### Resources
-- [kable](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) for creating Markdown tables in R
-
-Among many options..
-- [https://markdownlivepreview.com](https://markdownlivepreview.com) cut-and-paste-style browser-based Markdown renderer
-- [https://stackedit.io](https://stackedit.io) fuller-fledged browser-based Markdown editor (analagous to [Overleaf](https://www.overleaf.com) for LaTeX)
-- [Quarto](https://quarto.org) open-source scientific and technical publishing system
-
-### Additional resources
-- [Xie et al. R Markdown The definitive guide](https://bookdown.org/yihui/rmarkdown/)
-- [Xie Dynamic Documents with R and knitr](https://yihui.org/knitr/)
-- [Markdown in RStudio](https://rmarkdown.rstudio.com)
-- [Markdown Science Git repo wiki](https://github.com/scholmd/scholmd/wiki)
-- [R Markdown Basics in r4ds](https://r4ds.had.co.nz/r-markdown.html#r-markdown-basics)
-- [R Markdown Code chunks in r4ds](https://r4ds.had.co.nz/r-markdown.html#code-chunks)
-- [R Markdown Formats in r4ds](https://r4ds.had.co.nz/r-markdown-formats.html)
 
 ### Tips \& tricks
 - Non-printed commenting is possible in Markdown:
