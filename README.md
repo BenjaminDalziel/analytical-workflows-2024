@@ -2,7 +2,7 @@
 
 This repo contains the teaching materials for IB 516 Analytical Workflows taught at Oregon State University (OSU).
 
-The course is currently (Fall 2024) being taught - Monday, Wednesday 10-11:50am in Kidder Hall 238 on OSU's Corvallis campus. This year's [schedule](#schedule) is below.
+The course is currently (Winter 2024) being taught - Monday, Wednesday 10-11:50am in Kidder Hall 238 on OSU's Corvallis campus. This year's [schedule](#schedule) is below.
 
 The most relevant folders are:
 - [course_info](course_info/) containing grading [rubrics](course_info/rubrics/) and the [course syllabus](course_info/syllabus/syllabus.pdf);
