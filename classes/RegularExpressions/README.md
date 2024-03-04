@@ -115,4 +115,28 @@ Suppose you have a dataset with species observations, and each observation inclu
 
 
 
-## Example using grep
+## Example: Error Correction in Field Data
+*Scenario*: The dataset has a column named vegetation_type that includes information about the vegetation types observed. However, there are variations in spelling, and you want to standardize them.
+
+```R
+# Sample data
+dat <- data.frame(
+    site_id = c(1, 2, 3, 4, 5),
+    veg_type = c("Forest", "Woodland", "Rain Forest", "Mangoev", "grassland")
+)
+
+
+# Define a correction strategy
+correction_strategy <- list(
+    "Mangoev" = "Mangrove",
+    "Rain Forest" = "Rainforest"
+)
+
+# Use gsub function to correct the data
+nerrortype <- length(correction_strategy)
+for (i in 1:nerrortype) {
+    pattern <- names(correction_strategy)[i]
+    repl <- correction_strategy[[i]]
+    dat$veg_type <- gsub(pattern, repl, dat$veg_type)
+}
+```
