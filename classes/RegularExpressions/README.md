@@ -85,7 +85,7 @@ Suppose you have a dataset with species observations, and each observation inclu
 3. *Use R to Extract Location Information*:
 
 - Create a vector of species observations in R, including both complete and incomplete information.
-- Use the sub or str_extract function with your regular expression pattern to extract the location information.
+- Use your regular expression pattern to extract the location information.
 
 4. *Display Results*:
 
@@ -112,3 +112,7 @@ Suppose you have a dataset with species observations, and each observation inclu
 9. | (Pipe): Acts as an OR operator, allowing you to match either the pattern before or after the pipe.
 
 10. \ (Backslash): Escapes a metacharacter, allowing you to match it as a literal character. For example, \\ matches a single backslash.
+
+
+
+## Example using grep
